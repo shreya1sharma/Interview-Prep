@@ -1,6 +1,6 @@
 # Interview-Prep
 
-Important resources to prepare for interviews:
+Important resources to prepare for interviews.
 
 ## Data Science, ML, DL 
 [1. Comprehensive data science and machine learning interview guide](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/)
