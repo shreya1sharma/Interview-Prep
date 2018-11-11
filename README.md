@@ -10,3 +10,8 @@ Important resources to prepare for interviews:
 [3. Data Science Interview Question](https://www.springboard.com/blog/data-science-interview-questions/)
 
 [4. 21 must know interview questions and answers](https://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html)
+
+## Resume
+[1. Data science resume](https://www.springboard.com/blog/data-science-resume/)
+
+[2. Resume Tips](https://elitedatascience.com/resume-tips)
